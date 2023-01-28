@@ -1,0 +1,31 @@
+body{
+    background-color: darkgreen;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 2.4em;
+    font-weight: 700;
+    text-align: center;
+    color: rgb(216, 169, 49);
+}
+p{
+    text-align: center;
+    font-size: 1.3em;
+    color: white;
+    font-weight: bold;
+}
+button{
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    display: block;
+    margin:auto;
+    margin-bottom: 1em;
+    border: none;
+    font-size: 1.3em;
+    font-weight: bold;
+    border-radius: 0.6em;
+} 
+#start{
+    margin-top: 1em;
+}
